@@ -161,6 +161,9 @@ a{
 #section2 .slider_section .image_list li img{
     width: 100%;
 }
+#section2 .slider_section .image_list li .space{
+    height: 40px;
+}
 .slider_info_wrap{
     line-height: normal;
     vertical-align: middle;
